@@ -44,6 +44,7 @@ $route['sleep'] = 'First/zzz';
 $route['lock/em/up'] = 'Welcome/shucks';
 $route['show/3'] = 'First/gimme/3';
 $route['([a-z]+)/bingo'] = "bingo";
+$route['comp+(\d+)/([a-z]+)'] = "wise/bingo";
 
 // callback route
 $route['dunno'] = function() {
