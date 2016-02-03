@@ -1,2 +1,9 @@
-Date        Message
-2016-02-02  Made organization
+Date         Member       Message
+2016-02-02   Jerry        Made organization
+2016-02-02   Hank         Fixed first picture
+2016-02-02   Hank         Fixed last picture
+2016-02-02   Jerry        Fixed third picture
+2016-02-02   Jerry        Fixed fourth picture
+2016-02-02   Hank         Fixed sixth picture
+2016-02-02   Jerry        Fixed fifth picture
+2016-02-02   Hank         Fixed seventh picture
