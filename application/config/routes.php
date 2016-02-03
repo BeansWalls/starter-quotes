@@ -40,6 +40,20 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
+$route['sleep'] = 'First/zzz';
+$route['lock/em/up'] = 'Welcome/shucks';
+$route['show/3'] = 'First/gimme/3';
+$route['([a-z]+)/bingo'] = "bingo";
+
+// callback route
+$route['dunno'] = function() {
+    $source = './data/dunno.jpg'; 
+    // set the mime type for that image
+    header("Content-type: image/jpeg");
+    header('Content-Disposition: inline');
+    readfile($source);
+    die();
+};
 
 
 /* End of file routes.php */

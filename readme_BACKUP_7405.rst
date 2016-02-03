@@ -5,11 +5,17 @@ Members:
   Martin Minkov
   ハン区 (Hank Lo)
 
+<<<<<<< HEAD
   SCAMAZ
 
+/*----------------------------------
+		Coding Conventions: 
+ -----------------------------------*/
+=======
 **************
 Coding Conventions:
 **************
+>>>>>>> 2bb018967c7c5d264e60525726d2cc5bbd7feb49
 ​
  Notes:
 	-Don't throw in extra comments that you don't need. Put comments at places that you think that people might not understand.
