@@ -41,6 +41,16 @@
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 
+// callback route
+$route['dunno'] = function() {
+    $source = './data/dunno.jpg'; 
+    // set the mime type for that image
+    header("Content-type: image/jpeg");
+    header('Content-Disposition: inline');
+    readfile($source);
+    die();
+};
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
