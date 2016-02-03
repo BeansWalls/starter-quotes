@@ -3,6 +3,8 @@ Members:
   Martin Minkov
   Hank Lo
 
+  SCAMAZ
+
 /*----------------------------------
 		Coding Conventions: 
  -----------------------------------*/
