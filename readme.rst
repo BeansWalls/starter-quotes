@@ -1,7 +1,7 @@
 Members:
   Jerry Jia(Ruoqi Jia)
   Martin Minkov
-  Hank Lo
+  ハン区 (Hank Lo)
 
 /*----------------------------------
 		Coding Conventions: 
