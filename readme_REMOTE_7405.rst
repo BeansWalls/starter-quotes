@@ -5,8 +5,6 @@ Members:
   Martin Minkov
   ハン区 (Hank Lo)
 
-  SCAMAZ
-
 **************
 Coding Conventions:
 **************
